@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> <!--Cabeça do código-->
+    <meta charset="UTF-8">
+    <meta name="viewport" 
+    content="width=device-width, initial-scale=1.0">
+
+    <link rel="shortcut icon" href="HTML5-icon.png" type="image/x-icon">
+    <title>Hierarquia dos titulos</title>
+</head>
+<body> <!--Corpo do Código-->
+    <h1>Entendendo Portugual</h1> <!--Nivel 1-->
+    <h2>Introdução</h2> <!--Nivel 2-->
+    <h3>Justificativa de Temática</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis laudantium optio odit dolore! Unde blanditiis vitae eaque facilis. Error dignissimos velit illo id, sit blanditiis ut minima ipsum perferendis nostrum!</p>
+
+    <h3>Caráterexcecional</h3> <!--Nivel 3-->
+
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla ad porro at qui totam voluptate illo dolorum aliquam tenetur minima quas quaerat in, unde veniam consequatur consequuntur accusantium quam iste.</p>
+
+    <h3>Perguntas de partida</h3>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam accusantium est debitis sunt, dolor quas natus officia dolores nesciunt ad explicabo quidem quos doloremque vero incidunt. Earum sunt porro tenetur.</p>
+
+    <h3>Metodologia de Investigação</h3>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur libero, officia cumque esse suscipit voluptatum modi quam similique, officiis tenetur quae exercitationem atque sit labore quia, sed nesciunt excepturi ducimus.
+    </p>
+
+    <h4>Estapas de investigação</h4>
+    <h4>Instrumentos de análise</h4>
+    <h2>Ordenamento de Território em Portugal</h2>
+    <h4>Nivel 4</h4> <!--Nivel 4-->
+
+    <!--Os parágrafos existem até o nível 6, ou seja, existe até o h6-->
+
+    <h5>Olha o nível 5</h5> <!--Nível 5-->
+    <h6>Olha o nível 6</h6> <!--Nível 6-->
+</body>
+</html>
