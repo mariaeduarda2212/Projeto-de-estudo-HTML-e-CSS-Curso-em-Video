@@ -1,0 +1,45 @@
+<!--Essa era a forma em que se desenvolvia antigamente-->
+<html>
+    <head>
+        <title>Meu Site HTML4</title>
+    </head>
+    <body bgcolor="blue">
+        <center>
+            <h1>Exercicio de site em HTML</h1>
+        </center> <!--As tags que estão vermelhas estão obsoletas, estão funcionando, no entanto podem parar a qualquer momento-->
+        
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos sunt neque nihil eos maxime ex incidunt ipsum esse rem blanditiis obcaecati perspiciatis atque dolore dolorem tenetur, nobis, consequuntur officiis assumenda!</p>
+        <p> <font color="white">Teste de parágrafo</font>
+        </p>
+
+        Eu moro na <u>Rua dos capixabas, 229 - Botafogo</u>
+        <marquee behavitor="" direction="right">Teste de Marquee</marquee>
+    
+    </body>
+</html>
+
+
+<!--Essa é a forma em que se desenvolve antualmente-->
+<!DOCTYPE html>
+<html lang="pt-br">
+<head> <!--Cabeça do código-->
+    <meta charset="UTF-8">
+    <meta name="viewport" 
+    content="width=device-width, initial-scale=1.0">
+
+    <link rel="shortcut icon" href="HTML5-icon.png" type="image/x-icon">
+    <title>Hierarquia dos titulos</title>
+    <style>
+        body{
+
+       
+        background-color:antiquewhite ;
+        }
+    </style>
+</head>
+<body> <!--Corpo do Código-->
+   <p>
+    Eu como na <address> Rua dos Capixabas, 229 - Botafogo</address>
+    </p>
+</body>
+</html>
